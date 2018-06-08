@@ -18,7 +18,7 @@
                 <tr><td>Name</td><td><input name="name" maxlength=30 class="form-control" size=30></td></tr>
                 <tr><td>rating</td><td><input name="rating" maxlength=60 class="form-control" size=30></td></tr>
                 <tr><td>producer</td><td><input name="producer" maxlength=3 class="form-control" size=3></td></tr>
-                <tr><td colspan=2><input type="submit" value="Îòïðàâèòü"></td></tr>
+                <tr><td colspan=2><input type="submit" value="ÃŽÃ²Ã¯Ã°Ã Ã¢Ã¨Ã²Ã¼"></td></tr>
            </table>
         </form>
 <table border='3'>
@@ -60,7 +60,7 @@ foreach($row as $r){
  <form action="delete.php" method="post">
             <table>
                 <tr><td>id</td><td><input name="id" maxlength=30 class="form-control" size=30></td></tr>
-				<tr><td colspan=2><input type="submit" value="Óäàëèòü"></td></tr>
+				<tr><td colspan=2><input type="submit" value="Ã“Ã¤Ã Ã«Ã¨Ã²Ã¼"></td></tr>
            </table>
         </form>
 		<h3>Edite</h3>
